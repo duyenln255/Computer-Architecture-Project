@@ -1,2 +1,2 @@
 # Computer-Architecture-Project
-Semester 231 - CSE - HCMUT
+Semester 232 - CSE - HCMUT
